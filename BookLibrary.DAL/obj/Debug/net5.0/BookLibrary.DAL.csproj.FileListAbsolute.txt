@@ -1,0 +1,30 @@
+C:\Users\emanuel.cristutiu\source\repos\BookLibrary.DAL\bin\Debug\net5.0\BookLibrary.DAL.deps.json
+C:\Users\emanuel.cristutiu\source\repos\BookLibrary.DAL\bin\Debug\net5.0\BookLibrary.DAL.runtimeconfig.json
+C:\Users\emanuel.cristutiu\source\repos\BookLibrary.DAL\bin\Debug\net5.0\BookLibrary.DAL.runtimeconfig.dev.json
+C:\Users\emanuel.cristutiu\source\repos\BookLibrary.DAL\bin\Debug\net5.0\BookLibrary.DAL.dll
+C:\Users\emanuel.cristutiu\source\repos\BookLibrary.DAL\bin\Debug\net5.0\ref\BookLibrary.DAL.dll
+C:\Users\emanuel.cristutiu\source\repos\BookLibrary.DAL\bin\Debug\net5.0\BookLibrary.DAL.pdb
+C:\Users\emanuel.cristutiu\source\repos\BookLibrary.DAL\obj\Debug\net5.0\BookLibrary.DAL.csprojAssemblyReference.cache
+C:\Users\emanuel.cristutiu\source\repos\BookLibrary.DAL\obj\Debug\net5.0\BookLibrary.DAL.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\emanuel.cristutiu\source\repos\BookLibrary.DAL\obj\Debug\net5.0\BookLibrary.DAL.AssemblyInfoInputs.cache
+C:\Users\emanuel.cristutiu\source\repos\BookLibrary.DAL\obj\Debug\net5.0\BookLibrary.DAL.AssemblyInfo.cs
+C:\Users\emanuel.cristutiu\source\repos\BookLibrary.DAL\obj\Debug\net5.0\BookLibrary.DAL.csproj.CoreCompileInputs.cache
+C:\Users\emanuel.cristutiu\source\repos\BookLibrary.DAL\obj\Debug\net5.0\BookLibrary.DAL.dll
+C:\Users\emanuel.cristutiu\source\repos\BookLibrary.DAL\obj\Debug\net5.0\ref\BookLibrary.DAL.dll
+C:\Users\emanuel.cristutiu\source\repos\BookLibrary.DAL\obj\Debug\net5.0\BookLibrary.DAL.pdb
+C:\Users\emanuel.cristutiu\source\repos\BookLibrary.DAL\obj\Debug\net5.0\BookLibrary.DAL.genruntimeconfig.cache
+C:\Users\marcu\Desktop\Cursuri\Semestru 2\OOP\Examen\BookLibrary.DAL\bin\Debug\net5.0\BookLibrary.DAL.deps.json
+C:\Users\marcu\Desktop\Cursuri\Semestru 2\OOP\Examen\BookLibrary.DAL\bin\Debug\net5.0\BookLibrary.DAL.runtimeconfig.json
+C:\Users\marcu\Desktop\Cursuri\Semestru 2\OOP\Examen\BookLibrary.DAL\bin\Debug\net5.0\BookLibrary.DAL.runtimeconfig.dev.json
+C:\Users\marcu\Desktop\Cursuri\Semestru 2\OOP\Examen\BookLibrary.DAL\bin\Debug\net5.0\BookLibrary.DAL.dll
+C:\Users\marcu\Desktop\Cursuri\Semestru 2\OOP\Examen\BookLibrary.DAL\bin\Debug\net5.0\ref\BookLibrary.DAL.dll
+C:\Users\marcu\Desktop\Cursuri\Semestru 2\OOP\Examen\BookLibrary.DAL\bin\Debug\net5.0\BookLibrary.DAL.pdb
+C:\Users\marcu\Desktop\Cursuri\Semestru 2\OOP\Examen\BookLibrary.DAL\obj\Debug\net5.0\BookLibrary.DAL.csprojAssemblyReference.cache
+C:\Users\marcu\Desktop\Cursuri\Semestru 2\OOP\Examen\BookLibrary.DAL\obj\Debug\net5.0\BookLibrary.DAL.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\marcu\Desktop\Cursuri\Semestru 2\OOP\Examen\BookLibrary.DAL\obj\Debug\net5.0\BookLibrary.DAL.AssemblyInfoInputs.cache
+C:\Users\marcu\Desktop\Cursuri\Semestru 2\OOP\Examen\BookLibrary.DAL\obj\Debug\net5.0\BookLibrary.DAL.AssemblyInfo.cs
+C:\Users\marcu\Desktop\Cursuri\Semestru 2\OOP\Examen\BookLibrary.DAL\obj\Debug\net5.0\BookLibrary.DAL.csproj.CoreCompileInputs.cache
+C:\Users\marcu\Desktop\Cursuri\Semestru 2\OOP\Examen\BookLibrary.DAL\obj\Debug\net5.0\BookLibrary.DAL.dll
+C:\Users\marcu\Desktop\Cursuri\Semestru 2\OOP\Examen\BookLibrary.DAL\obj\Debug\net5.0\ref\BookLibrary.DAL.dll
+C:\Users\marcu\Desktop\Cursuri\Semestru 2\OOP\Examen\BookLibrary.DAL\obj\Debug\net5.0\BookLibrary.DAL.pdb
+C:\Users\marcu\Desktop\Cursuri\Semestru 2\OOP\Examen\BookLibrary.DAL\obj\Debug\net5.0\BookLibrary.DAL.genruntimeconfig.cache

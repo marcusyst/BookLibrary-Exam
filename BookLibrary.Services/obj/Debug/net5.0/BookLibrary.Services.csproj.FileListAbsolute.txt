@@ -1,0 +1,30 @@
+C:\Users\emanuel.cristutiu\source\repos\BookLibrary.Services\bin\Debug\net5.0\BookLibrary.Services.deps.json
+C:\Users\emanuel.cristutiu\source\repos\BookLibrary.Services\bin\Debug\net5.0\BookLibrary.Services.dll
+C:\Users\emanuel.cristutiu\source\repos\BookLibrary.Services\bin\Debug\net5.0\ref\BookLibrary.Services.dll
+C:\Users\emanuel.cristutiu\source\repos\BookLibrary.Services\bin\Debug\net5.0\BookLibrary.Services.pdb
+C:\Users\emanuel.cristutiu\source\repos\BookLibrary.Services\bin\Debug\net5.0\BookLibrary.DAL.dll
+C:\Users\emanuel.cristutiu\source\repos\BookLibrary.Services\bin\Debug\net5.0\BookLibrary.DAL.pdb
+C:\Users\emanuel.cristutiu\source\repos\BookLibrary.Services\obj\Debug\net5.0\BookLibrary.Services.csprojAssemblyReference.cache
+C:\Users\emanuel.cristutiu\source\repos\BookLibrary.Services\obj\Debug\net5.0\BookLibrary.Services.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\emanuel.cristutiu\source\repos\BookLibrary.Services\obj\Debug\net5.0\BookLibrary.Services.AssemblyInfoInputs.cache
+C:\Users\emanuel.cristutiu\source\repos\BookLibrary.Services\obj\Debug\net5.0\BookLibrary.Services.AssemblyInfo.cs
+C:\Users\emanuel.cristutiu\source\repos\BookLibrary.Services\obj\Debug\net5.0\BookLibrary.Services.csproj.CoreCompileInputs.cache
+C:\Users\emanuel.cristutiu\source\repos\BookLibrary.Services\obj\Debug\net5.0\BookLibrary.Services.csproj.CopyComplete
+C:\Users\emanuel.cristutiu\source\repos\BookLibrary.Services\obj\Debug\net5.0\BookLibrary.Services.dll
+C:\Users\emanuel.cristutiu\source\repos\BookLibrary.Services\obj\Debug\net5.0\ref\BookLibrary.Services.dll
+C:\Users\emanuel.cristutiu\source\repos\BookLibrary.Services\obj\Debug\net5.0\BookLibrary.Services.pdb
+C:\Users\marcu\Desktop\Cursuri\Semestru 2\OOP\Examen\BookLibrary.Services\bin\Debug\net5.0\BookLibrary.Services.deps.json
+C:\Users\marcu\Desktop\Cursuri\Semestru 2\OOP\Examen\BookLibrary.Services\bin\Debug\net5.0\BookLibrary.Services.dll
+C:\Users\marcu\Desktop\Cursuri\Semestru 2\OOP\Examen\BookLibrary.Services\bin\Debug\net5.0\ref\BookLibrary.Services.dll
+C:\Users\marcu\Desktop\Cursuri\Semestru 2\OOP\Examen\BookLibrary.Services\bin\Debug\net5.0\BookLibrary.Services.pdb
+C:\Users\marcu\Desktop\Cursuri\Semestru 2\OOP\Examen\BookLibrary.Services\bin\Debug\net5.0\BookLibrary.DAL.dll
+C:\Users\marcu\Desktop\Cursuri\Semestru 2\OOP\Examen\BookLibrary.Services\bin\Debug\net5.0\BookLibrary.DAL.pdb
+C:\Users\marcu\Desktop\Cursuri\Semestru 2\OOP\Examen\BookLibrary.Services\obj\Debug\net5.0\BookLibrary.Services.csprojAssemblyReference.cache
+C:\Users\marcu\Desktop\Cursuri\Semestru 2\OOP\Examen\BookLibrary.Services\obj\Debug\net5.0\BookLibrary.Services.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\marcu\Desktop\Cursuri\Semestru 2\OOP\Examen\BookLibrary.Services\obj\Debug\net5.0\BookLibrary.Services.AssemblyInfoInputs.cache
+C:\Users\marcu\Desktop\Cursuri\Semestru 2\OOP\Examen\BookLibrary.Services\obj\Debug\net5.0\BookLibrary.Services.AssemblyInfo.cs
+C:\Users\marcu\Desktop\Cursuri\Semestru 2\OOP\Examen\BookLibrary.Services\obj\Debug\net5.0\BookLibrary.Services.csproj.CoreCompileInputs.cache
+C:\Users\marcu\Desktop\Cursuri\Semestru 2\OOP\Examen\BookLibrary.Services\obj\Debug\net5.0\BookLibrary.Services.csproj.CopyComplete
+C:\Users\marcu\Desktop\Cursuri\Semestru 2\OOP\Examen\BookLibrary.Services\obj\Debug\net5.0\BookLibrary.Services.dll
+C:\Users\marcu\Desktop\Cursuri\Semestru 2\OOP\Examen\BookLibrary.Services\obj\Debug\net5.0\ref\BookLibrary.Services.dll
+C:\Users\marcu\Desktop\Cursuri\Semestru 2\OOP\Examen\BookLibrary.Services\obj\Debug\net5.0\BookLibrary.Services.pdb
